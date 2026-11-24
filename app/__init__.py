@@ -1,0 +1,1 @@
+"""Knowledge AI Assistant backend."""

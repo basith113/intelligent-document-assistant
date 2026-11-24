@@ -1,0 +1,10 @@
+Alder Supply Product Catalogue
+Fictional sample data. Prices are in USD.
+
+Field Notebook (SKU FN-100): $12. A5 notebook with 160 dotted pages and a water-resistant cover.
+
+Trail Bottle (SKU TB-750): $28. A 750 mL insulated stainless-steel bottle. Available in Slate and Moss. Includes a two-year warranty for manufacturing defects.
+
+Desk Dock (SKU DD-240): $49. A six-port USB-C hub with HDMI, Ethernet, SD, two USB-A ports, and USB-C power delivery. Supports up to 100 W of pass-through input power. Includes a one-year warranty for manufacturing defects.
+
+Returns: Unused products may be returned within 30 days of delivery with proof of purchase.
